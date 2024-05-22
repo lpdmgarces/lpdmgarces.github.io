@@ -27,17 +27,17 @@ author:
   bio              : "Lecturer in Quantitative Finance"
   location         : "Sydney, Australia"
   employer         : "University of Technology Sydney"
-  uri              : # URL
+  uri              : "https://profiles.uts.edu.au/lenpatrickdominic.garces"
   email            : "LenPatrickDominic.Garces@uts.edu.au" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com.au/citations?hl=en&user=4boQTNEAAAAJ&view_op=list_works&sortby=pubdate&inst=8615794581978883182"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-2737-7348"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Len-Patrick-Garces"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -207,10 +207,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
