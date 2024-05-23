@@ -16,11 +16,15 @@ Education
 * BSc in Applied Mathematics (major in Mathematical Finance), Ateneo de Manila University, 2014
 * BA (major in Economics), Ateneo de Manila University, 2014
 
-Work experience
+Work Experience
 ======
-* April 2023 to present: Lecturer
-  * University of Technology Sydney, School of Mathematical and Physical Sciences
-  * Research and teaching in quantitative finance; Program Director for Postgraduate Quantitative Finance courses
+
+## Full-Time Appointments
+
+* (April 2023 to present) **Lecturer**, University of Technology Sydney, School of Mathematical and Physical Sciences (Sydney, Australia)
+* (September 2021 to March 2023) **Senior Research Associate**, University of New South Wales, ARC Centre of Excellence in Population Ageing Research (Sydney, Australia)
+* (January 2021 to August 2021) **Research Assistant**, University of South Australia, UniSA STEM (Adelaide, Australia)
+* (June 2015 to July 2018) **Instructor**, Ateneo de Manila University, Department of Mathematics (Quezon City, Philippines)
 
 <!--
 Skills
