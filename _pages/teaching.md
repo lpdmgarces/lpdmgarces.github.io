@@ -44,9 +44,10 @@ author_profile: true
 
 # Courses/Subjects Taught
 
-## University of Technology Sydney (Apr 2023 to Present)
+## University of Technology Sydney
 
-
+- 37008 Quantitative Portfolio Analysis (Summer 2023)
+- 37009 Risk Management (Spring 2023)
 
 <!--
 {% include base_path %}
