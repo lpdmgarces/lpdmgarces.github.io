@@ -13,7 +13,7 @@ author_profile: true
 
 ## Journal Articles
 
-1. AffineMortality: An R package for estimation, analysis, and projection of affine mortality models, *Annals of Actuarial Science*, 1-26. (2024). [[DOI]([https://doi.org/10.1080/10920277.2023.2238793](https://doi.org/10.1017/S1748499524000149)), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3912983)]
+1. AffineMortality: An R package for estimation, analysis, and projection of affine mortality models, *Annals of Actuarial Science*, 1-26. (2024). [[DOI](https://doi.org/10.1017/S1748499524000149), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3912983)]
     (with Francesco Ungolo, Michael Sherris, and Yuxin Zhou)
 
 
