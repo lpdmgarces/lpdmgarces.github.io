@@ -14,7 +14,7 @@ author_profile: true
 ## Journal Articles
 
 1. AffineMortality: An R package for estimation, analysis, and projection of affine mortality models, *Annals of Actuarial Science*, 1-26. (2024). [[DOI]([https://doi.org/10.1080/10920277.2023.2238793](https://doi.org/10.1017/S1748499524000149)), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3912983)]
-    (with Francesco Ungolo, Michael Sherris, and Yuxin Zhou)
+    - with Francesco Ungolo (UNSW Sydney), Michael Sherris (UNSW Sydney), and Yuxin Zhou (UNSW Sydney)
 
 
 1. Estimation, comparison, and projection of multi-factor affine mortality models, *North American Actuarial Journal*, 1-23. (2023). [[DOI](https://doi.org/10.1080/10920277.2023.2238793), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3912981)]
@@ -34,6 +34,12 @@ author_profile: true
 
 
 ## Other Publications
+
+1. Digital simulations for grade 7 to 10 mathematics, *Philippine Journal of Science* 148(4): 743-757. (2019) [[DOI](https://philjournalsci.dost.gov.ph/publication/regular-issues/past-issues/95-vol-148-no-4-december-2019/1149-digital-simulations-for-grade-7-to-10-mathematics)]
+    (with Ma. Louise Antonette N. De Las Penas, Maria Alva Q. Aberin, Flordeliza F. Francisco, Winfer C. Tabares, Mark Anthony C. Tolentino, and Debbie Marie B. Verzosa)
+
+1. App-based scaffolds for writing two-column proofs, *International Journal of Mathematics Education in Science and Technology* 50(5): 776-787. (2019) [[DOI](https://doi.org/10.1080/0020739X.2018.1500654)]
+    (with Ma. Louise Antonette N. De Las Penas, Maria Alva Q. Aberin, and Debbie Marie B. Verzosa)
 
 1. App for addition and subtraction of integers, *International Journal for Technology in Mathematics Education* 25(4): 21-33. (2018)
     (with Ma. Louise Antonette N. De Las Penas, Maria Alva Q. Aberin, and Debbie Marie B. Verzosa)
