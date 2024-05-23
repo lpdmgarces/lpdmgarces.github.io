@@ -1,25 +1,34 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
 
-# Invited Presentations
+## Invited Presentations
 
-1. Variable annuities: a closer look at ratchets, hybrid contract designs, and taxation, *Institute of Insurance Studies*, Ulm University (May 2024)
+1. Variable annuities: a closer look at ratchets, hybrid contract designs, and taxation, *Institute of Insurance Studies*, Ulm University, Ulm, Germany (May 2024)
 
-1. Variable annuities: a closer look at ratchets, hybrid contract designs, and taxation, *CEPAR Longevity Risk Workshop*, University of New South Wales (Nov 2022)
+1. Variable annuities: a closer look at ratchets, hybrid contract designs, and taxation, *CEPAR Longevity Risk Workshop*, University of New South Wales, Sydney, Australia (Nov 2022)
 
-1. Affine mortality models with jumps: parameter estimation and forecasting, *UNSW Risk and Actuarial Studies Seminar*, University of New South Wales (Oct 2022)
+1. Affine mortality models with jumps: parameter estimation and forecasting, *UNSW Risk and Actuarial Studies Seminar*, University of New South Wales, Sydney, Australia (Oct 2022)
 
-1. Exchange option pricing under stochastic volatility and jump-diffusion dynamics, *Centre for Industrial and Applied Mathematics (CIAM) Seminar*, University of South Australia (Dec 2019)
+1. Exchange option pricing under stochastic volatility and jump-diffusion dynamics, *Centre for Industrial and Applied Mathematics (CIAM) Seminar*, University of South Australia, Adelaide, Australia (Dec 2019)
 
-1. Hermite-Hadamard-type inequalities for convex-on-the-coordinates functions of two and three variables, *School of Science and Engineering Awards for Outstanding Student Research*, Ateneo de Manila University (Mar 2014)
+1. Hermite-Hadamard-type inequalities for convex-on-the-coordinates functions of two and three variables, *School of Science and Engineering Awards for Outstanding Student Research*, Ateneo de Manila University, Quezon City, Philippines (Mar 2014)
 
 
-# Contributed Talks
+## Contributed Talks
 
+1. Variable annuities: a closer look at ratchets, hybrid contract designs, and taxation, *31st Colloquium on Pensions and Retirement Research*, University of New South Wales, Sydney, Australia (Dec 2023)
+
+2. Variable annuities: a closer look at ratchets, hybrid contract designs, and taxation, *26th International Congress on Insurance: Mathematics and Economics (IME 2023)*, Heriot-Watt University, Edinburgh, Scotland, United Kingdom (Jul 2023)
+
+3. Affine mortality models with jumps: Parameter estimation and forecasting, *2023 International Congress of Actuaries*, International Convention Centre, Sydney, Australia (May 2023)
+
+4. A numerical approach to pricing exchange options under stochastic volatility and jump-diffusion dynamics, *66th Annual Meeting of the Australian Mathematical Society*, University of New South Wales, Sydney, Australia (Dec 2022)
+
+5. Affine mortality models with jumps: Parameter estimation and forecasting, *30th Colloquium on Pensions and Retirement Research*, University of New South Wales, Sydney, Australia (Dec 2022)
 
 
 <!--
