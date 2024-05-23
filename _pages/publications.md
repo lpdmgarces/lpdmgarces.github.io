@@ -37,6 +37,17 @@ author_profile: true
 1. Estimating Philippine Dealing System Treasury (PDST) reference rate yield curves using a state-space representation of the Nelson-Siegel model, *2nd International Conference on Computing, Mathematics and Statistics 2015* (2015)
     (with Ma. Eleanor R. Reserva)
 
+## Working Papers
+
+1. Age-dependent, multi-cohort affine mortality models with cohort correlation, *CEPAR Working Paper 2023/09* (2023) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4456316)]
+    (with Yuxin Zhou, Yang Shen, Michael Sherris, and Jonathan Ziveyi)
+
+1. Affine mortality models with jumps: parameter estimation and forecasting, *CEPAR Working Paper 2022/12* (2022) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4220454)]
+    (with Jovana Kolar, Francesco Ungolo, and Michael Sherris)
+
+1. A put-call transformation of the exchange option problem under stochastic volatility and jump-diffusion dynamics (2020) [[arXiv](https://arxiv.org/abs/2002.10194)]
+    (with Gerald H. L. Cheang)
+
 
 ## Other Publications
 
