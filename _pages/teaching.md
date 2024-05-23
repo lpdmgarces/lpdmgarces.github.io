@@ -9,13 +9,27 @@ author_profile: true
 
 ## Current Students
 
-- Yuxin Zhou, PhD in Risk and Actuarial Studies, University of New South Wales, Sydney, Australia (co-supervision with Yang Shen, Michael Sherris, and Jonathan Ziveyi)
+### PhD Students
 
-- Jiarui Zhang, Bachelor of Mathematical Sciences (Honours), University of Technology Sydney, Sydney, Australia
+- Yuxin Zhou, *PhD in Risk and Actuarial Studies*, University of New South Wales, Sydney, Australia (co-supervision with Yang Shen, Michael Sherris, and Jonathan Ziveyi)
+
+### Bachelor's and Master's Degree Students
+
+- Jiarui Zhang, *Bachelor of Mathematical Sciences (Honours)*, University of Technology Sydney, Sydney, Australia
 
 ## Completed Students
 
-- 
+### Bachelor's and Master's Degree Students
+
+- Edward Mckenzie, *Master of Data Science in Quantitative Finance*, University of Technology Syndey, Sydney, Australia (co-supervision with Scott Alexander) (2024)
+
+- Renzo Roel P. Tan, *Bachelor of Science in Mathematics*, Ateneo de Manila University, Quezon City, Philippines (2018)
+
+- Mikaela Rei Africa, Anna Maria Avila, Marc Louie Magallanes, *Master of Applied Mathematics, Major in Mathematical Finance*, Ateneo de Manila University, Quezon City, Philippines (2018)
+
+- Eduard De Guzman, Pia Angeli Espartinez, Joel Mediana, Jr., *Master of Applied Mathematics, Major in Mathematical Finance*, Ateneo de Manila University, Quezon City, Philippines (2018)
+
+- Aaron Jan Cayanan, Jasmine Dela Cruz, Jimmy Soriano, *Master of Applied Mathematics, Major in Mathematical Finance*, Ateneo de Manila University, Quezon City, Philippines (2018)
 
 # Courses/Subjects Taught
 
