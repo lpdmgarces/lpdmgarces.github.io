@@ -11,26 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D (Financial Mathematics), University of South Australia, 2021
+* Master of Applied Mathematics, Ateneo de Manila University, 2015
+* BSc in Applied Mathematics (major in Mathematical Finance), Ateneo de Manila University, 2014
+* BA (major in Economics), Ateneo de Manila University, 2014
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April 2023 to present: Lecturer
+  * University of Technology Sydney, School of Mathematical and Physical Sciences
+  * Research and teaching in quantitative finance; Program Director for Postgraduate Quantitative Finance courses
   
 Skills
 ======
