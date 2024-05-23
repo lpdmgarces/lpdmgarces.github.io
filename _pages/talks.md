@@ -30,6 +30,24 @@ author_profile: true
 
 5. Affine mortality models with jumps: Parameter estimation and forecasting, *30th Colloquium on Pensions and Retirement Research*, University of New South Wales, Sydney, Australia (Dec 2022)
 
+6. Affine mortality models with jumps: Parameter estimation and forecasting, *2022 Australasian Actuarial Education and Research Symposium (AAERS 2022)*, Australian National University, Canberra, Australia (Nov 2022)
+
+7. Affine mortality models with jumps: Parameter estimation and forecasting, *25th International Congress on Insurance: Mathematics and Economics (IME 2022)*, online (Jul 2022)
+
+8. Regression-based approaches for simulation meta-modelling in the presence of heterogeneity and correlation, *24th International Congress on Modelling and Simulation (MODSIM 2021)*, International Convention Centre, Sydney, Australia (hybrid) (Dec 2021)
+
+9. A numerical approach to pricing exchange options under stochastic volatility and jump-diffusion dynamics, *10th General Advanced Mathematical Methods for Finance (AMaMeF) Conference*, online (Jun 2021)
+
+10. Put-call transformation of the exchange option problem under stochastic volatility and jump-diffusion dynamics, *Bernoulli-IMS One World Symposium 2020*, online (Aug 2020)
+
+11. Exchange option pricing under stochastic volatility and jump-diffusion dynamics, *Quantitative Methods in Finance 2019 Conference*, Sydney, Australia (Dec 2019)
+
+12. Eigenvalue bounds for the finite-state birth-death process intensity matrix, *2018 Mathematical Society of the Philippines Annual Convention*, Clark, Pampanga, Philippines (May 2018)
+
+13. Calculator-aided instruction in calculus and financial mathematics, *2016 Mathematical Society of the Philippines Annual Convention*, Cebu City, Philippines (May 2016)
+
+14. Estimating Philippine Dealing System Treasury reference rate yield curves using a state-space representation of the Nelson-Siegel model, *The 2nd International Conference on Computing, Mathematics and Statistics (iCMS 2015)*, Langkawi Island, Malaysia (Nov 2015)
+
 
 <!--
 {% if site.talkmap_link == true %}
