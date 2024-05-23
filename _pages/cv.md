@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Education and Work Experience"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,8 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Education
-======
+# Education
 
 * PhD (Financial Mathematics), University of South Australia, 2021
   * Thesis: Exchange Options under Stochastic Volatility and Jump-Diffusion (SVJD) Dynamics (supervised by Gerald H. L. Cheang, Anatoli Torokhti, and John van der Hoek) [[URL](https://hdl.handle.net/11541.2/26752)]
@@ -23,8 +22,7 @@ Education
 * BA (major in Economics), Ateneo de Manila University, 2014
 
 
-Work Experience
-======
+# Work Experience
 
 ## Full-Time Appointments
 
