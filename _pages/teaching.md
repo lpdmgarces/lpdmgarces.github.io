@@ -21,6 +21,8 @@ author_profile: true
 
 ### Bachelor's and Master's Degree Students
 
+- Stephanie Cruz, Elias Marcella, and Kenrick Raymond So, *Bachelor of Science in Applied Mathematics, Major in Mathematical Finance*, Ateneo de Manila University, Quezon City, Philippine (2024)
+
 - Edward Mckenzie, *Master of Data Science in Quantitative Finance*, University of Technology Syndey, Sydney, Australia (co-supervision with Scott Alexander) (2024)
 
 - Renzo Roel P. Tan, *Bachelor of Science in Mathematics*, Ateneo de Manila University, Quezon City, Philippines (2018)
