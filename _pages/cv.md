@@ -21,7 +21,8 @@ Work experience
 * April 2023 to present: Lecturer
   * University of Technology Sydney, School of Mathematical and Physical Sciences
   * Research and teaching in quantitative finance; Program Director for Postgraduate Quantitative Finance courses
-  
+
+<!--
 Skills
 ======
 * Skill 1
@@ -52,3 +53,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
