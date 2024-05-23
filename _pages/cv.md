@@ -21,10 +21,10 @@ Work Experience
 
 ## Full-Time Appointments
 
-* (April 2023 to present) **Lecturer**, University of Technology Sydney, School of Mathematical and Physical Sciences (Sydney, Australia)
-* (September 2021 to March 2023) **Senior Research Associate**, University of New South Wales, ARC Centre of Excellence in Population Ageing Research (Sydney, Australia)
-* (January 2021 to August 2021) **Research Assistant**, University of South Australia, UniSA STEM (Adelaide, Australia)
-* (June 2015 to July 2018) **Instructor**, Ateneo de Manila University, Department of Mathematics (Quezon City, Philippines)
+* (2023/04 to present) **Lecturer**, University of Technology Sydney, School of Mathematical and Physical Sciences (Sydney, Australia)
+* (2021/09 to 2023/03) **Senior Research Associate**, University of New South Wales, ARC Centre of Excellence in Population Ageing Research (Sydney, Australia)
+* (2021/01 to 2021/08) **Research Assistant**, University of South Australia, UniSA STEM (Adelaide, Australia)
+* (2015/06 to 2018/07) **Instructor**, Ateneo de Manila University, Department of Mathematics (Quezon City, Philippines)
 
 <!--
 Skills
