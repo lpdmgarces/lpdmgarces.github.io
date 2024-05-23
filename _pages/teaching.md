@@ -22,8 +22,12 @@ author_profile: true
 ### Bachelor's and Master's Degree Students
 
 - Stephanie Cruz, Elias Marcella, and Kenrick Raymond So, *Bachelor of Science in Applied Mathematics, Major in Mathematical Finance*, Ateneo de Manila University, Quezon City, Philippine (2024)
+  - *Investigation of Model and Premium Uncertainty in Longevity-Linked Securities*
 
 - Edward Mckenzie, *Master of Data Science in Quantitative Finance*, University of Technology Syndey, Sydney, Australia (co-supervision with Scott Alexander) (2024)
+  - *A Modern Exploration and Implementation of American Option Pricing Techniques: From Finite Difference Schemes to Pricing via Physics-Informed Neural Networks*
+
+- Jovana Kolar, *Non-Degree Research Assistantship*, ARC Centre of Excellence in Population Ageing Research, Sydney, Australia (co-supervision with Michael Sherris) (2022)
 
 - Renzo Roel P. Tan, *Bachelor of Science in Mathematics*, Ateneo de Manila University, Quezon City, Philippines (2018)
 
