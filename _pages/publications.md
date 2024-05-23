@@ -9,7 +9,9 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div> 
 {% endif %}
 
-# Journal Articles
+
+
+## Journal Articles
 
 1. Representation of exchange option prices under stochastic volatility jump-diffusion dynamics, *Quantitative Finance* 20(2): 291-310 (2020)
     - ([DOI](https://doi.org/10.1080/14697688.2019.1655785), [arXiv](https://arxiv.org/abs/2002.10202))
