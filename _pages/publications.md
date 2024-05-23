@@ -29,7 +29,14 @@ author_profile: true
 1. Representation of exchange option prices under stochastic volatility jump-diffusion dynamics, *Quantitative Finance* 20(2): 291-310. (2020) [[DOI](https://doi.org/10.1080/14697688.2019.1655785), [arXiv](https://arxiv.org/abs/2002.10202)]
     (with Gerald H. L. Cheang)
 
+1. Tourism and crime: Evidence from the Philippines, *Southeast Asian Studies Journal* 4(3): 565-580. (2015) [[DOI](https://doi.org/10.20495/seas.4.3_565)]
+    (with Rosalina Palanca-Tan, Angelica Nicole C. Purisima, and Angelo Christian L. Zaratan)
 
+
+## Other Publications
+
+1. App for addition and subtraction of integers, *International Journal for Technology in Mathematics Education* 25(4): 21-33. (2018)
+    (with Ma. Louise Antonette N. De Las Penas, Maria Alva Q. Aberin, and Debbie Marie B. Verzosa)
 
 <!--
 
