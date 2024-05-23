@@ -14,8 +14,10 @@ author_profile: true
 ## Journal Articles
 
 2. On eigenvalue bounds for the finite-state birth-death process intensity matrix, *Journal of Physics: Conference Series* 1593: 1-8. (2020) [[DOI](https://doi.org/10.1088/1742-6596/1593/1/012005)]
+    (with Renzo Roel P. Tan and Kazushi Ikeda)
 
 1. Representation of exchange option prices under stochastic volatility jump-diffusion dynamics, *Quantitative Finance* 20(2): 291-310. (2020) [[DOI](https://doi.org/10.1080/14697688.2019.1655785), [arXiv](https://arxiv.org/abs/2002.10202)]
+    (with Gerald H. L. Cheang)
 
 
 
