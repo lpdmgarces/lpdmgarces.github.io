@@ -14,6 +14,8 @@ Education
 ======
 
 * PhD (Financial Mathematics), University of South Australia, 2021
+  * Thesis: Exchange Options under Stochastic Volatility and Jump-Diffusion (SVJD) Dynamics (supervised by Gerald H. L. Cheang, Anatoli Torokhti, and John van der Hoek)
+    
 * Master of Applied Mathematics, Ateneo de Manila University, 2015
 * BSc in Applied Mathematics (major in Mathematical Finance), Ateneo de Manila University, 2014
 * BA (major in Economics), Ateneo de Manila University, 2014
