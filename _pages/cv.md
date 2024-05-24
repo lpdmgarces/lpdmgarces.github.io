@@ -45,7 +45,15 @@ redirect_from:
 
 <br>
 
-# Other Experience
+# Other Experience (Highlights)
+
+## Academic and University Service
+
+* (Apr 2023 to Present) **Program Director** for [Postgraduate Quantitative Finance Courses](https://www.uts.edu.au/study/find-a-course/master-quantitative-finance), University of Technology Sydney (Sydney, Australia)
+
+* (Nov 2021 to Mar 2023) **Stream Co-Coordinator**, [Stream 4: Sustainable Wellbeing in Later Life](https://cepar.edu.au/research/research-program-2017-2024/sustainable-wellbeing-later-life), ARC Centre of Excellence in Population Ageing Research (CEPAR), University of New South Wales (Sydney, Australia)
+
+* (Apr 2017 to Jul 2018) **Program Adviser**, Bachelor of Science in Applied Mathematics with Specialization in Mathematical Finance, Ateneo de Manila University (Quezon City, Philippines)
 
 ## Editorships
 
