@@ -43,6 +43,20 @@ redirect_from:
   
 * (Aug 2015 to Dec 2017) **Affiliated Faculty Member**, Ateneo de Manila University, Department of Economics (Quezon City, Philippines)
 
+<br>
+
+# Other Experience
+
+## Editorships
+
+* Guest Editor, *Mathematics* Special Issue: [Stochastic Analysis and Applications in Financial Mathematics](https://www.mdpi.com/journal/mathematics/special_issues/G75BWRHOIJ) (with Gerald H. L. Cheang)
+
+## Peer-Review
+
+* **Journals:** Insurance: Mathematics and Economics, ASTIN Bulletin, Decisions in Economics and Finance, Journal of Futures Markets, International Journal of Finance and Economics, The Australian and New Zealand Industrial and Applied Mathematics (ANZIAM) Journal, Financial Innovation, Mathematics (MDPI), Risks (MDPI), Fractal and Fractional
+
+* **Conferences:** MODSIM 2021
+
 <!--
 Skills
 ======
