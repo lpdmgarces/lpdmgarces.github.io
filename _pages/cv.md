@@ -21,7 +21,7 @@ redirect_from:
   
 * BA (major in Economics), Ateneo de Manila University, 2014
 
-</br>
+<br>
 
 # Work Experience
 
