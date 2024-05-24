@@ -11,6 +11,8 @@ author_profile: true
 
 1. Variable annuities: a closer look at ratchets, hybrid contract designs, and taxation, *CEPAR Longevity Risk Workshop*, University of New South Wales, Sydney, Australia (Nov 2022)
 
+1. Affine mortality models with jumps: parameter estimation and forecasting, *Research Centre for Longevity Risk*, University of Amsterdam, Amsterdam, The Netherlands (Nov 2022)
+
 1. Affine mortality models with jumps: parameter estimation and forecasting, *UNSW Risk and Actuarial Studies Seminar*, University of New South Wales, Sydney, Australia (Oct 2022)
 
 1. Exchange option pricing under stochastic volatility and jump-diffusion dynamics, *Centre for Industrial and Applied Mathematics (CIAM) Seminar*, University of South Australia, Adelaide, Australia (Dec 2019)
