@@ -55,6 +55,16 @@ redirect_from:
 
 * (Apr 2017 to Jul 2018) **Program Adviser**, Bachelor of Science in Applied Mathematics with Specialization in Mathematical Finance, Ateneo de Manila University (Quezon City, Philippines)
 
+## Event Organization
+
+* (Dec 2022) **Special Session Coordinator:** Equity, Diversity, and Inclusion in Mathematics (with Matt Mack), 66th Annual Meeting of the Australian Mathematical Society, University of New South Wales (Sydney, Australia)
+
+* (Jan 2018) **National Stage Coordinator**, 20th Philippine Mathematical Olympiad, Mathematical Society of the Philippines
+
+* (May 2017) **Local Organizing Committee Member**, Workshop on Modern Trends in Mathematical Crystallography (MathCryst Manila 2017), International Union of Crystallography and Ateneo de Manila University (Quezon City, Philippines)
+
+* (Oct 2016) **Local Organizing Committee Member**, Summer School on Applied Mathematics and Scientific Computing, IWR-Heidelberg University and Ateneo de Manila University (Quezon City, Philippines)
+
 ## Editorships
 
 * Guest Editor, *Mathematics* Special Issue: [Stochastic Analysis and Applications in Financial Mathematics](https://www.mdpi.com/journal/mathematics/special_issues/G75BWRHOIJ) (with Gerald H. L. Cheang)
