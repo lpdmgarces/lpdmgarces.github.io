@@ -49,6 +49,18 @@ author_profile: true
 - 37008 Quantitative Portfolio Analysis (Summer 2023)
 - 37009 Risk Management (Spring 2023)
 
+## University of South Australia
+
+- INFS 3081 UO Predictive Analytics (2021 SP1)
+- MATH 2032 UO Statistics using R (2021 SP1, 2020 SP4, 2020 SP1)
+- INFS 3080 UO Data Visualization (2020 SP6)
+- INFS 2036 Business Intelligence (2020 SP5, 2020 SP2, 2019 SP5)
+- MATH 1064 Mathematical Methods for Engineers 2 (2020 SP5)
+- MATH 1063 Mathematical Methods for Engineers 1 (2020 SP2, 2019 SP5, 2019 SP2)
+- MATH 1068 Statistical Methods (2020 SP2)
+- MATH 1053 Quantitative Methods for Business (2019 SP5, 2019 SP2)
+- MATH 1054 Calculus 1 (2019 SP2)
+
 <!--
 {% include base_path %}
 
