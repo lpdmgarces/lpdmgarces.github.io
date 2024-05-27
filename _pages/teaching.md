@@ -61,6 +61,27 @@ author_profile: true
 - MATH 1053 Quantitative Methods for Business (2019 SP5, 2019 SP2)
 - MATH 1054 Calculus 1 (2019 SP2)
 
+## Ateneo de Manila University
+
+### Graduate Courses
+
+- AMF 270 Introduction to Options (2017-2019)
+- MA 295L.7 Seminar: Financial Derivatives (2016-2018)
+- MA 295S.4 Seminar: Statistical Methods (2016-2018)
+- AMF 271 Financial Derivatives (2017-2018)
+- MA 295L.4 Seminar: Introduction to Finance and Economics (2015-2016)
+- AMF 272 Risk Management (2015-2016)
+
+### Undergraduate Courses (Major Courses Only)
+
+- MA 195L.2 Seminar: Introduction to Financial Mathematics II (2016-2018)
+- MA 151 Elementary Probability Theory (2016-2018)
+- EC 117 Introduction to Econometrics (2017-2018)
+- EC 115 Introduction to Mathematical Economics (2015-2017)
+- EC 187.67 Special Topics in Economics: Time Series Analysis and General Linear Models (2016-2017)
+- EC 111 Intermediate Microeconomic Theory (2016-2017)
+- EC 116 Statistics for Economists (2015-2016)
+
 <!--
 {% include base_path %}
 
