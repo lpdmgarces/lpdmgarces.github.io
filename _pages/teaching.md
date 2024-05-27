@@ -51,6 +51,8 @@ author_profile: true
 
 ## University of South Australia
 
+*Facilitation of tutorials and practical sessions and marking on a casual contract basis*
+
 - INFS 3081 UO Predictive Analytics (2021 SP1)
 - MATH 2032 UO Statistics using R (2021 SP1, 2020 SP4, 2020 SP1)
 - INFS 3080 UO Data Visualization (2020 SP6)
