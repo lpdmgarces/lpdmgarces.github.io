@@ -42,6 +42,8 @@ author_profile: true
 - Aaron Jan Cayanan, Jasmine Dela Cruz, Jimmy Soriano, *Master of Applied Mathematics, Major in Mathematical Finance*, Ateneo de Manila University, Quezon City, Philippines (2018)
   - *Credit Scorecard Development for Salary Loans*
 
+<br>
+
 # Courses/Subjects Taught
 
 ## University of Technology Sydney
