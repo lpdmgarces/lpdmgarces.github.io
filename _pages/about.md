@@ -7,12 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome
+# Welcome!
 
-Len Patrick Garces is a **Lecturer** at the University of Technology Sydney, [School of Mathematical and Physical Sciences](https://www.uts.edu.au/about/faculty-science/school-mathematical-and-physical-sciences) and the **Program Director** of the Postgraduate Quantitative Finance courses offered by the university:
-  - [Master of Quantitative Finance](https://www.uts.edu.au/study/find-a-course/master-quantitative-finance),
-  - [Master of Data Science in Quantitative Finance](https://www.uts.edu.au/study/find-a-course/master-data-science-quantitative-finance)
-  - [Master of Mathematics and Quantitative Finance](https://www.uts.edu.au/study/find-a-course/master-mathematics-and-quantitative-finance)
+Len Patrick Garces is a **Lecturer** at the University of Technology Sydney, [School of Mathematical and Physical Sciences](https://www.uts.edu.au/about/faculty-science/school-mathematical-and-physical-sciences) and the **Program Director** of the Postgraduate Quantitative Finance courses* offered by the university.
 
 He is also an **Associate Investigator** at the [ARC Centre of Excellence in Population Ageing Research (CEPAR)](https://cepar.edu.au/), working on topics covered by [Stream 4: Sustainable Wellbeing in Later Life](https://cepar.edu.au/research/research-program-2017-2024/sustainable-wellbeing-later-life).
 
@@ -20,3 +17,12 @@ Broadly, his research interests lie within the field of **financial and actuaria
 
 His current research is on continuous-time stochastic mortality models and their applications to actuarial valuation, the design and valuation of retirement income products, robust consumption and investment problems, and indifference pricing of mortality-linked securities.
 
+#### Postgraduate Quantitative Finance at UTS
+
+UTS offers the following postgraduate qualifications in quantitative finance:
+
+  - [Master of Quantitative Finance](https://www.uts.edu.au/study/find-a-course/master-quantitative-finance),
+  - [Master of Data Science in Quantitative Finance](https://www.uts.edu.au/study/find-a-course/master-data-science-quantitative-finance)
+  - [Master of Mathematics and Quantitative Finance](https://www.uts.edu.au/study/find-a-course/master-mathematics-and-quantitative-finance)
+
+If you are interested in undertaking postgraduate studies in quantitative finance at UTS, please feel free to contact me for informal enquiries. Admission procedures and other information are available in the links above.
