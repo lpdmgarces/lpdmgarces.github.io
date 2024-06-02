@@ -17,7 +17,7 @@ Broadly, his research interests lie within the field of **financial and actuaria
 
 His current research is on continuous-time stochastic mortality models and their applications to actuarial valuation, the design and valuation of retirement income products, robust consumption and investment problems, and indifference pricing of mortality-linked securities.
 
-#### Postgraduate Quantitative Finance at UTS
+#### Postgraduate Quantitative Finance at UTS*
 
 UTS offers the following postgraduate qualifications in quantitative finance:
 
