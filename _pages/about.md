@@ -19,7 +19,7 @@ His current research is on continuous-time stochastic mortality models and their
 
 <br>
 
-#### Postgraduate Quantitative Finance at UTS*
+### Postgraduate Quantitative Finance at UTS*
 
 UTS offers the following postgraduate qualifications in quantitative finance:
 
