@@ -51,6 +51,10 @@ redirect_from:
 
 * (Sep to Oct 2023) Monash University, Department of Econometrics and Business Statistics (Melbourne, Australia)
 
+* (Jul 2023) Oxford University, Oxford Man Institute of Quantitative Finance (Oxford, UK)
+
+* (Jun 2023) University College London, Department of Mathematics (London, UK)
+
 * (Oct to Nov 2022) Universite Libre de Bruxelles, Department of Mathematics (Brussels, Belgium)
   * Includes short visits to KU Leuven, Faculty of Economics and Business; University of Amsterdam, Research Centre for Longevity Risk; UC Louvain, Institute of Statistics, Biostatistics, and Actuarial Sciences
 
