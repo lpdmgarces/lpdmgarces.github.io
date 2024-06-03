@@ -45,17 +45,17 @@ redirect_from:
 
 ## Research Visits
 
-* (Apr to May 2024) Universite Libre de Bruxelles, Department of Mathematics (Brussels, Belgium)
+* (21 Apr to 25 May 2024) Universite Libre de Bruxelles, Department of Mathematics (Brussels, Belgium)
 
-* (May 2024) Ulm University, Institute of Insurance Studies (Ulm, Germany)
+* (7 to 11 May 2024) Ulm University, Institute of Insurance Studies (Ulm, Germany)
 
-* (Sep to Oct 2023) Monash University, Department of Econometrics and Business Statistics (Melbourne, Australia)
+* (19 Sep to 6 Oct 2023) Monash University, Department of Econometrics and Business Statistics (Melbourne, Australia)
 
-* (Jul 2023) Oxford University, Oxford Man Institute of Quantitative Finance (Oxford, UK)
+* (10 to 11 Jul 2023) Oxford University, Oxford Man Institute of Quantitative Finance (Oxford, UK)
 
-* (Jun 2023) University College London, Department of Mathematics (London, UK)
+* (27 to 30 Jun 2023) University College London, Department of Mathematics (London, UK)
 
-* (Oct to Nov 2022) Universite Libre de Bruxelles, Department of Mathematics (Brussels, Belgium)
+* (10 Oct to 19 Nov 2022) Universite Libre de Bruxelles, Department of Mathematics (Brussels, Belgium)
   * Includes short visits to KU Leuven, Faculty of Economics and Business; University of Amsterdam, Research Centre for Longevity Risk; UC Louvain, Institute of Statistics, Biostatistics, and Actuarial Sciences
 
 *The research visits from 2022 to 2024 were generously supported by the ARC Centre of Excellence in Population Ageing Research HDR Student and ECR Fellow Travel Scheme and the UTS School of Mathematical and Physical Sciences Start-Up Funding.*
