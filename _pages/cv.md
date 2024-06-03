@@ -43,9 +43,7 @@ redirect_from:
   
 * (Aug 2015 to Dec 2017) **Affiliated Faculty Member**, Ateneo de Manila University, Department of Economics (Quezon City, Philippines)
 
-<br>
-
-# Research Visits
+## Research Visits
 
 * (Apr to May 2024) Universite Libre de Bruxelles, Department of Mathematics (Brussels, Belgium)
 
@@ -54,6 +52,7 @@ redirect_from:
 * (Sep to Oct 2023) Monash University, Department of Econometrics and Business Statistics (Melbourne, Australia)
 
 * (Oct to Nov 2022) Universite Libre de Bruxelles, Department of Mathematics (Brussels, Belgium)
+  * Includes short visits to KU Leuven, Faculty of Economics and Business; University of Amsterdam, Research Centre for Longevity Risk; UC Louvain, Institute of Statistics, Biostatistics, and Actuarial Sciences
 
 *The research visits from 2022 to 2024 were generously supported by the ARC Centre of Excellence in Population Ageing Research HDR Student and ECR Fellow Travel Scheme and the UTS School of Mathematical and Physical Sciences Start-Up Funding.*
 
