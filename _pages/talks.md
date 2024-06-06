@@ -9,6 +9,8 @@ author_profile: true
 
 1. Variable annuities: a closer look at ratchets, hybrid contract designs, and taxation, *Institute of Insurance Studies*, Ulm University, Ulm, Germany (May 2024)
 
+1. A numerical approach to pricing exchange options under stochastic volatility and jump-diffusion dynamics, *Mathematical Finance and Stochastic Analysis Seminar*, Department of Mathematics, University of York, York, United Kingdom (July 2023)
+
 1. Variable annuities: a closer look at ratchets, hybrid contract designs, and taxation, *CEPAR Longevity Risk Workshop*, University of New South Wales, Sydney, Australia (Nov 2022)
 
 1. Affine mortality models with jumps: parameter estimation and forecasting, *Research Centre for Longevity Risk*, University of Amsterdam, Amsterdam, The Netherlands (Nov 2022)
