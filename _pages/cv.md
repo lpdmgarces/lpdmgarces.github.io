@@ -15,7 +15,7 @@ redirect_from:
 * PhD (Financial Mathematics), University of South Australia, 2021
   * Thesis: Exchange Options under Stochastic Volatility and Jump-Diffusion (SVJD) Dynamics (supervised by Gerald H. L. Cheang, Anatoli Torokhti, and John van der Hoek) [[URL](https://hdl.handle.net/11541.2/26752)]
     
-* Master of Applied Mathematics, Ateneo de Manila University, 2015
+* Master of Applied Mathematics (major in Mathematical Finance), Ateneo de Manila University, 2015
   
 * BSc in Applied Mathematics (major in Mathematical Finance), Ateneo de Manila University, 2014
   
