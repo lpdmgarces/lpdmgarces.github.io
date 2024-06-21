@@ -13,13 +13,12 @@ author_profile: true
 
 - Yuxin Zhou, *PhD in Risk and Actuarial Studies*, University of New South Wales, Sydney, Australia (co-supervision with Yang Shen, Michael Sherris, and Jonathan Ziveyi)
 
-### Bachelor's and Master's Degree Students
-
-- Jiarui Zhang, *Bachelor of Mathematical Sciences (Honours)*, University of Technology Sydney, Sydney, Australia
-
 ## Completed Students
 
 ### Bachelor's and Master's Degree Students
+
+- Jiarui Zhang, *Bachelor of Mathematical Sciences (Honours)*, University of Technology Sydney, Sydney, Australia
+  - *Comparison of Jump Detection Methods for Financial Time Series*
 
 - Stephanie Cruz, Elias Marcella, and Kenrick Raymond So, *Bachelor of Science in Applied Mathematics, Major in Mathematical Finance*, Ateneo de Manila University, Quezon City, Philippines (co-supervision with Jeric C. Briones) (2024)
   - *Investigation of Model and Premium Uncertainty in Longevity-Linked Securities*
