@@ -17,7 +17,7 @@ author_profile: true
 
 ### Bachelor's and Master's Degree Students
 
-- Jiarui Zhang, *Bachelor of Mathematical Sciences (Honours)*, University of Technology Sydney, Sydney, Australia
+- Jiarui Zhang, *Bachelor of Mathematical Sciences (Honours)*, University of Technology Sydney, Sydney, Australia (2024)
   - *Comparison of Jump Detection Methods for Financial Time Series*
 
 - Stephanie Cruz, Elias Marcella, and Kenrick Raymond So, *Bachelor of Science in Applied Mathematics, Major in Mathematical Finance*, Ateneo de Manila University, Quezon City, Philippines (co-supervision with Jeric C. Briones) (2024)
