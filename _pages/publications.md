@@ -39,7 +39,7 @@ author_profile: true
 
 ## Working Papers
 
-1. Robust optimal investment and consumption strategies with portfolio constraints and stochastic environment (2024) [[ResearchGate](https://www.researchgate.net/publication/381885092_Robust_optimal_investment_and_consumption_strategies_with_portfolio_constraints_and_stochastic_environment)]
+1. Robust optimal investment and consumption strategies with portfolio constraints and stochastic environment (2024) [[arXiv](https://arxiv.org/abs/2407.02831)]
     (with Yang Shen)
 
 1. Age-dependent, multi-cohort affine mortality models with cohort correlation, *CEPAR Working Paper 2023/09* (2023) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4456316)]
