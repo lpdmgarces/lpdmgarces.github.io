@@ -39,7 +39,7 @@ author_profile: true
 
 ## Working Papers
 
-1. Risk-sharing Rules for Mortality Pooling Products with Stochastic and Correlated Mortality Rates, *CEPAR Working Paper 2024/26* (2024) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4996536)]
+1. Risk-sharing rules for mortality pooling products with stochastic and correlated mortality rates, *CEPAR Working Paper 2024/26* (2024) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4996536)]
     (with Yuxin Zhou, Yang Shen, Michael Sherris, and Jonathan Ziveyi)
 
 1. Robust optimal investment and consumption strategies with portfolio constraints and stochastic environment (2024) [[arXiv](https://arxiv.org/abs/2407.02831)]
