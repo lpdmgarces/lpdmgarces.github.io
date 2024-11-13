@@ -11,6 +11,8 @@ author_profile: true
 
 ### PhD Students
 
+- Abdullah Ibrahim Radwan, *PhD in Mathematical Sciences*, University of Technology Sydney, Sydney, Australia (co-supervision with Stephen Woodcock)
+
 - Yuxin Zhou, *PhD in Risk and Actuarial Studies*, University of New South Wales, Sydney, Australia (co-supervision with Yang Shen, Michael Sherris, and Jonathan Ziveyi)
 
 ## Completed Students
