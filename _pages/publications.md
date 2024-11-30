@@ -10,14 +10,12 @@ author_profile: true
 {% endif %}
 
 
-
 ## Journal Articles
 
 1. AffineMortality: An R package for estimation, analysis, and projection of affine mortality models, *Annals of Actuarial Science*, 1-26. (2024). [[DOI](https://doi.org/10.1017/S1748499524000149), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3912983)]
     (with Francesco Ungolo, Michael Sherris, and Yuxin Zhou)
 
-
-1. Estimation, comparison, and projection of multi-factor affine mortality models, *North American Actuarial Journal*, 1-23. (2023). [[DOI](https://doi.org/10.1080/10920277.2023.2238793), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3912981)]
+1. Estimation, comparison, and projection of multi-factor affine mortality models, *North American Actuarial Journal*, 28(3): 570-592. (2024). [[DOI](https://doi.org/10.1080/10920277.2023.2238793), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3912981)]
     (with Francesco Ungolo, Michael Sherris, and Yuxin Zhou)
 
 1. A numerical approach to pricing exchange options under stochastic volaility and jump-diffusion dynamics, *Quantitative Finance*, 21(12): 2025-2054. (2021) [[DOI](https://doi.org/10.1080/14697688.2021.1926534), [arXiv](https://arxiv.org/abs/2106.07362)]
