@@ -53,7 +53,7 @@ author_profile: true
     (with Gerald H. L. Cheang)
 
 
-## Other Publications
+## Other Publications (Peer-Reviewed Journal Articles)
 
 1. Digital simulations for grade 7 to 10 mathematics, *Philippine Journal of Science*, 148(4): 743-757. (2019) [[DOI](https://philjournalsci.dost.gov.ph/publication/regular-issues/past-issues/95-vol-148-no-4-december-2019/1149-digital-simulations-for-grade-7-to-10-mathematics)]
     (with Ma. Louise Antonette N. De Las Penas, Maria Alva Q. Aberin, Flordeliza F. Francisco, Winfer C. Tabares, Mark Anthony C. Tolentino, and Debbie Marie B. Verzosa)
