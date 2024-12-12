@@ -12,6 +12,9 @@ author_profile: true
 
 ## Journal Articles
 
+1, Robust optimal investment and consumption strategies with portfolio constraints and stochastic environment, *European Journal of Operational Research*. (2024). [[DOI](https://doi.org/10.1016/j.ejor.2024.12.010), [arXiv](https://arxiv.org/abs/2407.02831)]
+    (with Yang Shen)
+
 1. AffineMortality: An R package for estimation, analysis, and projection of affine mortality models, *Annals of Actuarial Science*, 1-26. (2024). [[DOI](https://doi.org/10.1017/S1748499524000149), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3912983)]
     (with Francesco Ungolo, Michael Sherris, and Yuxin Zhou)
 
@@ -39,9 +42,6 @@ author_profile: true
 
 1. Risk-sharing rules for mortality pooling products with stochastic and correlated mortality rates, *CEPAR Working Paper 2024/26* (2024) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4996536)]
     (with Yuxin Zhou, Yang Shen, Michael Sherris, and Jonathan Ziveyi)
-
-1. Robust optimal investment and consumption strategies with portfolio constraints and stochastic environment (2024) [[arXiv](https://arxiv.org/abs/2407.02831)]
-    (with Yang Shen)
 
 1. Age-dependent, multi-cohort affine mortality models with cohort correlation, *CEPAR Working Paper 2023/09* (2023) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4456316)]
     (with Yuxin Zhou, Yang Shen, Michael Sherris, and Jonathan Ziveyi)
