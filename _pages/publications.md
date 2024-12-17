@@ -24,9 +24,6 @@ author_profile: true
 1. A numerical approach to pricing exchange options under stochastic volaility and jump-diffusion dynamics, *Quantitative Finance*, 21(12): 2025-2054. (2021) [[DOI](https://doi.org/10.1080/14697688.2021.1926534), [arXiv](https://arxiv.org/abs/2106.07362)]
     (with Gerald H. L. Cheang)
 
-1. On eigenvalue bounds for the finite-state birth-death process intensity matrix, *Journal of Physics: Conference Series*, 1593: 1-8. (2020) [[DOI](https://doi.org/10.1088/1742-6596/1593/1/012005)]
-    (with Renzo Roel P. Tan and Kazushi Ikeda)
-
 1. Representation of exchange option prices under stochastic volatility jump-diffusion dynamics, *Quantitative Finance*, 20(2): 291-310. (2020) [[DOI](https://doi.org/10.1080/14697688.2019.1655785), [arXiv](https://arxiv.org/abs/2002.10202)]
     (with Gerald H. L. Cheang)
 
@@ -34,6 +31,9 @@ author_profile: true
 
 1. Regression-based approaches for simulation meta-modelling in the presence of heterogeneity and correlation, *Proceedings of the 24th International Congress on Modelling and Simulation (MODSIM)* (2021) [[DOI](https://doi.org/10.36334/modsim.2021.M5.garces)]
     (with Timofei Bogomolov and Belinda Chiera)
+
+1. On eigenvalue bounds for the finite-state birth-death process intensity matrix, *Journal of Physics: Conference Series*, 1593: 1-8. (2020) [[DOI](https://doi.org/10.1088/1742-6596/1593/1/012005)]
+    (with Renzo Roel P. Tan and Kazushi Ikeda)
 
 1. Estimating Philippine Dealing System Treasury (PDST) reference rate yield curves using a state-space representation of the Nelson-Siegel model, *2nd International Conference on Computing, Mathematics and Statistics 2015* (2015)
     (with Ma. Eleanor R. Reserva)
