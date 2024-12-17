@@ -24,6 +24,8 @@ author_profile: true
 
 ## Contributed Talks
 
+1. Robust optimal investment and consumption strategies with constraints and stochastic environment, *Quantitative Methods in Finance 2024*, University of Technology Sydney, Sydney, Australia (Dec 2024)
+
 1. Variable annuities: a closer look at ratchets, hybrid contract designs, and taxation, *31st Colloquium on Pensions and Retirement Research*, University of New South Wales, Sydney, Australia (Dec 2023)
 
 2. Variable annuities: a closer look at ratchets, hybrid contract designs, and taxation, *26th International Congress on Insurance: Mathematics and Economics (IME 2023)*, Heriot-Watt University, Edinburgh, Scotland, United Kingdom (Jul 2023)
