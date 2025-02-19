@@ -18,6 +18,9 @@ author_profile: true
 1. AffineMortality: An R package for estimation, analysis, and projection of affine mortality models, *Annals of Actuarial Science*, 19(1): 23-48. (2025). [[DOI](https://doi.org/10.1017/S1748499524000149), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3912983)]
     (with Francesco Ungolo, Michael Sherris, and Yuxin Zhou)
 
+1. Uncertainty in pricing and risk measurement of survivor contracts, *Risks*, 13(2): 1-26. (2025). [[DOI](https://doi.org/10.3390/risks13020035)]
+    (with Kenrick Raymond So, Stephanie Claire Cruz, Elias Antonio Marcella, and Jeric Briones)
+
 1. Estimation, comparison, and projection of multi-factor affine mortality models, *North American Actuarial Journal*, 28(3): 570-592. (2024). [[DOI](https://doi.org/10.1080/10920277.2023.2238793), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3912981)]
     (with Francesco Ungolo, Michael Sherris, and Yuxin Zhou)
 
