@@ -23,8 +23,8 @@ His current research is on continuous-time stochastic mortality models and their
 
 UTS offers the following postgraduate qualifications in quantitative finance:
 
-  - [Master of Quantitative Finance](https://www.uts.edu.au/study/find-a-course/master-quantitative-finance),
-  - [Master of Data Science in Quantitative Finance](https://www.uts.edu.au/study/find-a-course/master-data-science-quantitative-finance)
-  - [Master of Mathematics and Quantitative Finance](https://www.uts.edu.au/study/find-a-course/master-mathematics-and-quantitative-finance)
+  - [Master of Quantitative Finance](https://www.uts.edu.au/courses/master-of-quantitative-finance),
+  - [Master of Data Science in Quantitative Finance](https://www.uts.edu.au/courses/master-data-science-quantitative-finance)
+  - [Master of Mathematics and Quantitative Finance](https://www.uts.edu.au/courses/master-mathematics-and-quantitative-finance)
 
 If you are interested in undertaking postgraduate studies in quantitative finance at UTS, please feel free to contact me for informal enquiries. Admission procedures and other information are available in the links above.
