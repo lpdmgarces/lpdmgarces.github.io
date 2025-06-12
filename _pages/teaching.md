@@ -13,9 +13,12 @@ author_profile: true
 
 - Abdullah Ibrahim Radwan, *PhD in Mathematical Sciences*, University of Technology Sydney, Sydney, Australia (co-supervision with Stephen Woodcock)
 
-- Yuxin Zhou, *PhD in Risk and Actuarial Studies*, University of New South Wales, Sydney, Australia (co-supervision with Yang Shen, Michael Sherris, and Jonathan Ziveyi)
-
 ## Completed Students
+
+### PhD Students
+
+- Yuxin Zhou, *PhD in Risk and Actuarial Studies*, University of New South Wales, Sydney, Australia (co-supervision with Yang Shen, Michael Sherris, and Jonathan Ziveyi) (2024)
+  - *Affine Mortality Models and Pooling Products for Longevity and Long-term Care Risk Management*
 
 ### Bachelor's and Master's Degree Students
 
