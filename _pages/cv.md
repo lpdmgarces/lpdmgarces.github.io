@@ -92,7 +92,7 @@ redirect_from:
 
 ## Peer-Review
 
-* **Journals:** Insurance: Mathematics and Economics, ASTIN Bulletin, Decisions in Economics and Finance, Journal of Futures Markets, International Journal of Finance and Economics, The Australian and New Zealand Industrial and Applied Mathematics (ANZIAM) Journal, Financial Innovation, Mathematics (MDPI), Risks (MDPI), Fractal and Fractional
+* **Journals:** Insurance: Mathematics and Economics, ASTIN Bulletin, Journal of Computational and Applied Mathematics, Decisions in Economics and Finance, Journal of Futures Markets, International Journal of Finance and Economics, The Australian and New Zealand Industrial and Applied Mathematics (ANZIAM) Journal, Financial Innovation, Mathematics (MDPI), Risks (MDPI), Fractal and Fractional
 
 * **Conferences:** MODSIM 2021
 
