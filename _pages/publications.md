@@ -43,6 +43,9 @@ author_profile: true
 
 ## Working Papers
 
+1. Variable annuities: A closer look at ratchet guarantees, hybrid contract designs, and taxation (2025) [[arXiv](https://arxiv.org/abs/2507.07358)]
+     (with Jennifer Alonso-Garcia and Jonathan Ziveyi)
+
 1. Risk-sharing rules for mortality pooling products with stochastic and correlated mortality rates, *CEPAR Working Paper 2024/26* (2024) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4996536)]
     (with Yuxin Zhou, Yang Shen, Michael Sherris, and Jonathan Ziveyi)
 
