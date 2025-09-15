@@ -12,6 +12,9 @@ author_profile: true
 
 ## Journal Articles
 
+1. Risk-sharing rules for mortality pooling products with stochastic and correlated mortality rates, *ASTIN Bulletin: The Journal of the IAA*, (2025) [[DOI][https://doi.org/10.1017/asb.2025.10064]], [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4996536)]
+    (with Yuxin Zhou, Yang Shen, Michael Sherris, and Jonathan Ziveyi)
+
 1. Robust optimal investment and consumption strategies with portfolio constraints and stochastic environment, *European Journal of Operational Research*, 322(2): 693-712. (2025). [[DOI](https://doi.org/10.1016/j.ejor.2024.12.010), [arXiv](https://arxiv.org/abs/2407.02831)]
     (with Yang Shen)
 
@@ -45,9 +48,6 @@ author_profile: true
 
 1. Variable annuities: A closer look at ratchet guarantees, hybrid contract designs, and taxation (2025) [[arXiv](https://arxiv.org/abs/2507.07358)]
      (with Jennifer Alonso-Garcia and Jonathan Ziveyi)
-
-1. Risk-sharing rules for mortality pooling products with stochastic and correlated mortality rates, *ASTIN Bulletin: The Journal of the IAA* (Accepted, in press) (2025) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4996536)]
-    (with Yuxin Zhou, Yang Shen, Michael Sherris, and Jonathan Ziveyi)
 
 1. Age-dependent, multi-cohort affine mortality models with cohort correlation, *CEPAR Working Paper 2023/09* (2023) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4456316)]
     (with Yuxin Zhou, Yang Shen, Michael Sherris, and Jonathan Ziveyi)
