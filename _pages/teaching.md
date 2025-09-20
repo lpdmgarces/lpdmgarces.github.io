@@ -58,8 +58,8 @@ author_profile: true
 
 ## University of Technology Sydney
 
-- 37008 Quantitative Portfolio Analysis (Summer 2023)
-- 37009 Risk Management (Spring 2023)
+- 37008 Quantitative Portfolio Analysis (Summer 2023 to present)
+- 37009 Risk Management (Spring 2023 to present)
 
 ## University of South Australia
 
