@@ -22,13 +22,19 @@ author_profile: true
 
 ### Bachelor's and Master's Degree Students
 
+- Hayoung Lee, *Master of Data Science in Quantitative Finance*, University of Technology Sydney, Sydney, Australia (2025)
+  - *Stochastic Forecast for the South Korean National Pension System*
+ 
+- Jiawen Ran, *Master of Data Science in Quantitative Finance*, University of Technology Sydney, Sydney, Australia (2025)
+  - *Numerical Implementation of the Backward Induction for Hybrid Variable Annuities with Guaranteed Minimum Withdrawal Benefits*
+
 - Jiarui Zhang, *Bachelor of Mathematical Sciences (Honours)*, University of Technology Sydney, Sydney, Australia (2024)
   - *Comparison of Jump Detection Methods for Financial Time Series*
 
 - Stephanie Cruz, Elias Marcella, and Kenrick Raymond So, *Bachelor of Science in Applied Mathematics, Major in Mathematical Finance*, Ateneo de Manila University, Quezon City, Philippines (co-supervision with Jeric C. Briones) (2024)
   - *Investigation of Model and Premium Uncertainty in Longevity-Linked Securities*
 
-- Edward Mckenzie, *Master of Data Science in Quantitative Finance*, University of Technology Syndey, Sydney, Australia (co-supervision with Scott Alexander) (2024)
+- Edward Mckenzie, *Master of Data Science in Quantitative Finance*, University of Technology Sydney, Sydney, Australia (co-supervision with Scott Alexander) (2024)
   - *A Modern Exploration and Implementation of American Option Pricing Techniques: From Finite Difference Schemes to Pricing via Physics-Informed Neural Networks*
 
 - Jovana Kolar, *Non-Degree Research Assistantship*, ARC Centre of Excellence in Population Ageing Research, Sydney, Australia (co-supervision with Michael Sherris) (2022)
