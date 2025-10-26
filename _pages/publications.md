@@ -46,6 +46,9 @@ author_profile: true
 
 ## Working Papers
 
+1. Dynamic factor analysis of price movements in the Philippine Stock Exchange (2025) [[arXiv](https://arxiv.org/abs/2510.15938v1)]
+     (with Brian Godwin Lim, Dominic Dayta, Benedict Ryan Tiu, Renzo Roel P. Tan, and Kazushi Ikeda)
+
 1. Variable annuities: A closer look at ratchet guarantees, hybrid contract designs, and taxation (2025) [[arXiv](https://arxiv.org/abs/2507.07358)]
      (with Jennifer Alonso-Garcia and Jonathan Ziveyi)
 
