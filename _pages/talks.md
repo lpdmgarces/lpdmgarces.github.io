@@ -24,6 +24,8 @@ author_profile: true
 
 ## Contributed Talks
 
+1. Estimation, comparison, and projection of multi-factor age-cohort affine mortality models, *MATRIX Mathematics of Risk 2025*, MATRIX, Creswick, Australia (Nov 2025)
+
 1. Robust optimal investment and consumption strategies with constraints and stochastic environment, *Quantitative Methods in Finance 2024*, University of Technology Sydney, Sydney, Australia (Dec 2024)
 
 1. Variable annuities: a closer look at ratchets, hybrid contract designs, and taxation, *31st Colloquium on Pensions and Retirement Research*, University of New South Wales, Sydney, Australia (Dec 2023)
