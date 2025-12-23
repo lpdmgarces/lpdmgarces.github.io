@@ -24,9 +24,11 @@ author_profile: true
 
 ## Contributed Talks
 
+1. Variable annuities: a closer look at ratchets, hybrid contract designs, and taxation, *Quantitative Methods in Finance Conference 2025*, University of Technology Sydney, Sydney, Australia (Dec 2025)
+
 1. Estimation, comparison, and projection of multi-factor age-cohort affine mortality models, *MATRIX Mathematics of Risk 2025*, MATRIX, Creswick, Australia (Nov 2025)
 
-1. Robust optimal investment and consumption strategies with constraints and stochastic environment, *Quantitative Methods in Finance 2024*, University of Technology Sydney, Sydney, Australia (Dec 2024)
+1. Robust optimal investment and consumption strategies with constraints and stochastic environment, *Quantitative Methods in Finance Conference 2024*, University of Technology Sydney, Sydney, Australia (Dec 2024)
 
 1. Variable annuities: a closer look at ratchets, hybrid contract designs, and taxation, *31st Colloquium on Pensions and Retirement Research*, University of New South Wales, Sydney, Australia (Dec 2023)
 
@@ -48,7 +50,7 @@ author_profile: true
 
 10. Put-call transformation of the exchange option problem under stochastic volatility and jump-diffusion dynamics, *Bernoulli-IMS One World Symposium 2020*, online (Aug 2020)
 
-11. Exchange option pricing under stochastic volatility and jump-diffusion dynamics, *Quantitative Methods in Finance 2019 Conference*, Sydney, Australia (Dec 2019)
+11. Exchange option pricing under stochastic volatility and jump-diffusion dynamics, *Quantitative Methods in Finance Conference 2019*, Sydney, Australia (Dec 2019)
 
 12. Eigenvalue bounds for the finite-state birth-death process intensity matrix, *2018 Mathematical Society of the Philippines Annual Convention*, Clark, Pampanga, Philippines (May 2018)
 
