@@ -11,6 +11,8 @@ author_profile: true
 
 
 ## Journal Articles
+1. Dynamic factor analysis of price movements in the Philippine Stock Exchange, *Financial Innovation*, 12: 1-24 (2026) [[DOI](https://doi.org/10.1186/s40854-025-00807-7)], [[arXiv](https://arxiv.org/abs/2510.15938v1)]
+     (with Brian Godwin Lim, Dominic Dayta, Benedict Ryan Tiu, Renzo Roel P. Tan, and Kazushi Ikeda)
 
 1. Risk-sharing rules for mortality pooling products with stochastic and correlated mortality rates, *ASTIN Bulletin: The Journal of the IAA*, 55 (Special Issue 3): 585-614. (2025) [[DOI](https://doi.org/10.1017/asb.2025.10064)], [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4996536)]
     (with Yuxin Zhou, Yang Shen, Michael Sherris, and Jonathan Ziveyi)
@@ -46,8 +48,7 @@ author_profile: true
 
 ## Working Papers
 
-1. Dynamic factor analysis of price movements in the Philippine Stock Exchange (2025) [[arXiv](https://arxiv.org/abs/2510.15938v1)]
-     (with Brian Godwin Lim, Dominic Dayta, Benedict Ryan Tiu, Renzo Roel P. Tan, and Kazushi Ikeda)
+
 
 1. Variable annuities: A closer look at ratchet guarantees, hybrid contract designs, and taxation (2025) [[arXiv](https://arxiv.org/abs/2507.07358)]
      (with Jennifer Alonso-Garcia and Jonathan Ziveyi)
