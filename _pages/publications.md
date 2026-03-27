@@ -48,7 +48,8 @@ author_profile: true
 
 ## Working Papers
 
-
+1. Optimal dividend, reinsurance, and capital injection for collaborating business lines under model uncertainty (2026) [[arXiv](https://arxiv.org/abs/2603.25350)]
+     (with Tim J. Boonen and Engel John C. Dela Vega)
 
 1. Variable annuities: A closer look at ratchet guarantees, hybrid contract designs, and taxation (2025) [[arXiv](https://arxiv.org/abs/2507.07358)]
      (with Jennifer Alonso-Garcia and Jonathan Ziveyi)
