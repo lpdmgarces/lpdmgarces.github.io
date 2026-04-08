@@ -67,7 +67,7 @@ redirect_from:
 ## Awards and Distinctions
 
 * Ragnar Norberg Memorial Prize 2025, International Actuaries Association (IAA) Life Section (IAALS)
-  * Awarded to the paper *Risk-sharing rules for mortality pooling products with stochastic and correlated mortality rates* (ASTIN Bulletin 55 (Special Issue 3), 2025) co-authored with Yuxin Zhou, Michael Sherris, Yang Shen, and Jonathan Ziveyi)
+  - Awarded to the paper *Risk-sharing rules for mortality pooling products with stochastic and correlated mortality rates* (ASTIN Bulletin 55 (Special Issue 3), 2025) co-authored with Yuxin Zhou, Michael Sherris, Yang Shen, and Jonathan Ziveyi
 
 ## Academic and University Service
 
