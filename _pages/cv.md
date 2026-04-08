@@ -64,6 +64,10 @@ redirect_from:
 
 # Other Experience (Highlights)
 
+## Awards and Distinctions
+
+* Ragnar Norberg Memorial Prize 2025, International Actuaries Association (IAA) Life Section (IAALS): *Risk-sharing rules for mortality pooling products with stochastic and correlated mortality rates* (ASTIN Bulletin 55 (Special Issue 3), 2025; co-authored with Yuxin Zhou, Michael Sherris, Yang Shen, and Jonathan Ziveyi)
+
 ## Academic and University Service
 
 * (Apr 2023 to Present) **Program Director** for [Postgraduate Quantitative Finance Courses](https://www.uts.edu.au/study/find-a-course/master-quantitative-finance), Faculty of Science, University of Technology Sydney (Sydney, Australia)
