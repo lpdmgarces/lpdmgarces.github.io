@@ -66,8 +66,18 @@ redirect_from:
 
 ## Awards and Distinctions
 
-* Ragnar Norberg Memorial Prize 2025, International Actuaries Association (IAA) Life Section (IAALS)
+* (2026) Ragnar Norberg Memorial Prize 2025, International Actuaries Association (IAA) Life Section (IAALS)
   * Awarded to the paper *Risk-sharing rules for mortality pooling products with stochastic and correlated mortality rates* (ASTIN Bulletin 55 (Special Issue 3), 2025) co-authored with Yuxin Zhou, Michael Sherris, Yang Shen, and Jonathan Ziveyi
+
+* (2025) MATRIX-Simons Travel Grant, MATRIX
+  * Travel grant to support participation in the MATRIX Mathematics of Risk 2025 Research Program
+ 
+* (2023) Faculty of Science Staff Conference Travel Award, University of Technology Sydney
+
+* (2022) CEPAR Higher Degree by Research Students and Early Career Research Fellow Travel Scheme, ARC Centre of Excellence in Population Ageing Research
+ 
+* (2018) International Higher Degree by Research Scholarship and Research Training Program International (RTPi) Stipend, University of South Australia
+  * Scholarship and stipend for PhD studies at UniSA from 2018 to 2021
 
 ## Academic and University Service
 
