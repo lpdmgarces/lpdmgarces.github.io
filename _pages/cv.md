@@ -90,6 +90,8 @@ redirect_from:
 
 * Guest Editor, *Mathematics* Special Issue: [Stochastic Analysis and Applications in Financial Mathematics](https://www.mdpi.com/journal/mathematics/special_issues/G75BWRHOIJ) (with Gerald H. L. Cheang)
 
+* Guest Editor, *Quantitative Finance* Special Issue: Quantitative Methods in Finance 2025 Conference (with Sebastien Lleo and Erik Schlogl)
+
 ## Peer-Review
 
 * **Journals:** Insurance: Mathematics and Economics, ASTIN Bulletin, Journal of Computational and Applied Mathematics, Decisions in Economics and Finance, Journal of Futures Markets, International Journal of Finance and Economics, The Australian and New Zealand Industrial and Applied Mathematics (ANZIAM) Journal, Financial Innovation, Mathematics (MDPI), Risks (MDPI), Fractal and Fractional
