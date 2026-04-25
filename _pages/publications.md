@@ -11,7 +11,7 @@ author_profile: true
 
 
 ## Journal Articles
-1. Indifference pricing of mortality-linked securities using backward stochastic differential equations, *ASTIN Bulletin: The Journal of the IAA*, 1-27 (2026) [[DOI](https://doi.org/10.1017/asb.2026.10088)]
+1. Indifference pricing of mortality-linked securities using backward stochastic differential equations, *ASTIN Bulletin: The Journal of the IAA*, 56(2): 510-536 (2026) [[DOI](https://doi.org/10.1017/asb.2026.10088)]
      (with Fabio Gomez and Qihe Tang)
 
 1. Dynamic factor analysis of price movements in the Philippine Stock Exchange, *Financial Innovation*, 12: 1-24 (2026) [[DOI](https://doi.org/10.1186/s40854-025-00807-7), [arXiv](https://arxiv.org/abs/2510.15938v1)]
