@@ -9,9 +9,9 @@ redirect_from:
 
 # Welcome!
 
-Len Patrick Garces is a **Lecturer** at the University of Technology Sydney, [School of Mathematical and Physical Sciences](https://www.uts.edu.au/about/faculty-science/school-mathematical-and-physical-sciences) and the **Program Director** of the [Master of Quantitative Finance](https://www.uts.edu.au/courses/master-of-quantitative-finance) offered at UTS.
+Len Patrick Garces is a **Senior Lecturer** at the University of New South Wales, [School of Risk and Actuarial Studies](https://www.unsw.edu.au/business/our-schools/risk-actuarial).
 
-He was a **Senior Research Associate** (from September 2021 to March 2023) and a **Associate Investigator** (from April 2023 to December 2024) at the [ARC Centre of Excellence in Population Ageing Research (CEPAR)](https://cepar.edu.au/), working on topics covered by [Stream 4: Sustainable Wellbeing in Later Life](https://cepar.edu.au/research/research-program-2017-2024/sustainable-wellbeing-later-life).
+Previously, he was a Lecturer in Quantitative Finance at the University of Technology Sydney, School of Mathematical and Physical Science, and a Senior Research Associate at the [ARC Centre of Excellence in Population Ageing Research (CEPAR)](https://cepar.edu.au/).
 
 Broadly, his research interests lie within the field of **financial and actuarial mathematics**, primarily on the applications of probability theory and stochastic analysis to tackle financial and actuarial problems (e.g. financial or insurance risk modelling and management, asset price modelling, term structure modelling, pricing and hedging financial derivatives) and the development of numerical and statistical methods to solve these problems.
 
