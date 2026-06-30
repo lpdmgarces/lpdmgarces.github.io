@@ -27,7 +27,9 @@ redirect_from:
 
 ## Full-Time Appointments
 
-* (Apr 2023 to present) **Lecturer**, University of Technology Sydney, School of Mathematical and Physical Sciences (Sydney, Australia)
+* (Jul 2026 to present) **Senior Lecturer**, University of New South Wales, School of Risk and Actuarial Studies (Sydney, Australia)
+
+* (Apr 2023 to Jun 2026) **Lecturer**, University of Technology Sydney, School of Mathematical and Physical Sciences (Sydney, Australia)
   
 * (Sep 2021 to Mar 2023) **Senior Research Associate**, University of New South Wales, ARC Centre of Excellence in Population Ageing Research (Sydney, Australia)
   
@@ -35,7 +37,9 @@ redirect_from:
   
 * (Jun 2015 to Jul 2018) **Instructor**, Ateneo de Manila University, Department of Mathematics (Quezon City, Philippines)
 
-## Part-Time Appointments
+## Part-Time and Honorary Appointments
+
+* (Jul 2026 to present)  **Visiting Fellow**, University of Technology Sydney, School of Mathematical and Physical Sciences (Sydney, Australia)
 
 * (Dec 2019 to Apr 2021) **Tutor**, University of South Australia, UniSA Online (Adelaide, Australia)
   
