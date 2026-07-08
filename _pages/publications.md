@@ -11,6 +11,9 @@ author_profile: true
 
 
 ## Journal Articles
+1. Age-dependent multi-cohort affine mortality models with cohort correlation, *North American Actuarial Journal* (Online): 1-31 (2026) [[DOI](https://doi.og/10.1080/10920277.2026.2682217), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4456316)]
+     (with Yuxin Zhou, Yang Shen, Michael Sherris, and Jonathan Ziveyi)
+
 1. Indifference pricing of mortality-linked securities using backward stochastic differential equations, *ASTIN Bulletin: The Journal of the IAA*, 56(2): 510-536 (2026) [[DOI](https://doi.org/10.1017/asb.2026.10088)]
      (with Fabio Gomez and Qihe Tang)
 
@@ -56,9 +59,6 @@ author_profile: true
 
 1. Variable annuities: A closer look at ratchet guarantees, hybrid contract designs, and taxation (2025) [[arXiv](https://arxiv.org/abs/2507.07358)]
      (with Jennifer Alonso-Garcia and Jonathan Ziveyi)
-
-1. Age-dependent, multi-cohort affine mortality models with cohort correlation, *CEPAR Working Paper 2023/09* (2023) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4456316)]
-    (with Yuxin Zhou, Yang Shen, Michael Sherris, and Jonathan Ziveyi)
 
 1. Affine mortality models with jumps: parameter estimation and forecasting, *CEPAR Working Paper 2022/12* (2022) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4220454)]
     (with Jovana Kolar, Francesco Ungolo, and Michael Sherris)
