@@ -11,9 +11,9 @@ redirect_from:
 
 Len Patrick Garces is an applied mathematician whose research interests lie within the field of financial and actuarial mathematics, primarily on the applications of probability theory and stochastic analysis to tackle financial and actuarial problems (e.g. financial or insurance risk modelling and management, asset price modelling, term structure modelling, pricing and hedging financial derivatives) and the development of numerical and statistical methods to solve these problems. 
 
-He is currently a **Senior Lecturer** at the University of New South Wales, [School of Risk and Actuarial Studies](https://www.unsw.edu.au/business/our-schools/risk-actuarial).
+He is currently a **Senior Lecturer** at the University of New South Wales (UNSW), [School of Risk and Actuarial Studies](https://www.unsw.edu.au/business/our-schools/risk-actuarial) and an Affiliate of the [UNSW Centre for Population Ageing Research (CEPAR)](https://cepar.edu.au/).
 
-Previously, he was a Lecturer in Quantitative Finance at the University of Technology Sydney, School of Mathematical and Physical Science (2023-2026) and a Senior Research Associate at the [ARC Centre of Excellence in Population Ageing Research (CEPAR)](https://cepar.edu.au/) (2021-2023).
+Previously, he was a Lecturer in Quantitative Finance at the University of Technology Sydney, School of Mathematical and Physical Science (2023-2026) and a Senior Research Associate at CEPAR (2021-2023).
 
 His current research work includes:
 - Design, valuation, and evaluation of retirement income and insurance products
